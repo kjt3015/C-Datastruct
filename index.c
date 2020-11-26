@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main() {
-	printf("Hellow World!!");
-	printf("PingPong Test");
+	printf("Hellow World!!\n");
+	printf("PingPong Test\n");
 
 	return 0;
 }

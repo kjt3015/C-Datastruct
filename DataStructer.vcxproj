@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f72cf6bf-9c1c-4d53-b179-41947cc99659}</ProjectGuid>
+    <ProjectGuid>{EB78B0CF-1936-4C13-85A8-ADA41D35D4D3}</ProjectGuid>
     <RootNamespace>DataStructer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -140,10 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="index.c" />
-    <ClCompile Include="Remind.c" />
-    <ClCompile Include="test.c" />
-    <ClCompile Include="Week1.c" />
-    <ClCompile Include="Week2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

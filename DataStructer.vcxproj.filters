@@ -18,17 +18,5 @@
     <ClCompile Include="index.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Remind.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="test.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Week1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Week2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
